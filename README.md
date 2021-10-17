@@ -5,3 +5,6 @@ Head over to config.json
 Put your token where it says PUT_TOKEN_HERE
 Customize your settings if you want
 Enjoy the self-bot
+------------------------------------------------------------------------------------------------------------------
+discord.gg/spyop
+SPY ALWAYS ON TOP
